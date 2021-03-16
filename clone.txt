@@ -1,2 +1,3 @@
 this is clone repo
 adding second line to test merge option
+adding another line in clone file
