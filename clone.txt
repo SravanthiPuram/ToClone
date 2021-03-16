@@ -1,1 +1,2 @@
 this is clone repo
+adding second line to test merge option
